@@ -1,0 +1,36 @@
+/* Write your CSS code here. */
+.bg {
+  background-image: linear-gradient(to right, #ffeeee, #ffc0bb);
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.card {
+  text-align: center;
+  border-radius: 10px;
+  background-color: white;
+  height: 400px;
+  width: 600px;
+  padding: 40px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.icons {
+  height: 100px;
+  width: 100px;
+}
+.grp {
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+}
+.inner-grp {
+  padding: 30px;
+}
+.love {
+  height: 60px;
+}
